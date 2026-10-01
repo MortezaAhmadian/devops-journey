@@ -12,3 +12,8 @@ ls -l
 
 ls -a
 
+# Linux manual page
+
+man - an interface to the system reference manuals
+
+man ls
