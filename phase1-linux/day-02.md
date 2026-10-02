@@ -3,3 +3,7 @@
 ##  detailed metadata (timestamps, permissions, inode
 
 stat day-01.md
+
+## measure directory sizes
+
+du
